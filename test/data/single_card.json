@@ -1,0 +1,8 @@
+{"name": "Board Name", "desc": "Board Description", "cards": [
+    {
+        "desc": "Card Description",
+        "labels": ["Card Label"],
+        "name": "Card Name",
+        "url": "https://trello.com/card/test/50ba303c7b4a6f8f2b005cc2/1"
+    }
+]}
