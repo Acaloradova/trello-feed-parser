@@ -1,5 +1,6 @@
 require 'test/unit'
 require 'treller'
+require 'treller/model/trello_board'
 class CsvMarshallerTest < Test::Unit::TestCase
   def test_marshal()
     board = TrelloBoard.new([TrelloCard.new(name="card1", description="description1"),
