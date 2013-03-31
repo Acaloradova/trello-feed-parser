@@ -19,6 +19,13 @@ class TrelloParserTest < Test::Unit::TestCase
     assert_equal "Card Description1", trello_board.cards[1].description
   end
 
+  def test_with_a_lot_of_rubbish()
+    trello_board = sut().parse_json(File.read('data/realworld_board.json'))
+
+    assert_equal 4, trello_board.cards.size
+
+  end
+
   def sut()
     TrelloParser.new
   end
