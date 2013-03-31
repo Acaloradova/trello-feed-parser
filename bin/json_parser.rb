@@ -4,7 +4,6 @@ require '../bin/model/trello_card'
 class TrelloParser
   def parse_json(json)
     board = TrelloBoard.new
-    board.cards = Array.new
     board_json = JSON.parse(json)
     board_json.fetch("cards").each_with_index do |card_json, i|
       card = TrelloCard.new
