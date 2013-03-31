@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+lib_dir = File.join(File.dirname(__FILE__), '..', 'lib')
+$LOAD_PATH.unshift lib_dir if File.directory?(lib_dir)
+require 'treller'
+if ARGV.size == 0
+  print "Pass the filename as an argument\n"
+else
+  Treller.parse(ARGV[0])
+end

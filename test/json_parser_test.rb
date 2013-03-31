@@ -1,6 +1,6 @@
 require 'test/unit'
-require '../bin/json_parser'
-require '../bin/model/trello_board'
+require 'treller'
+require 'treller/model/trello_board'
 
 class TrelloParserTest < Test::Unit::TestCase
   def test_single_card()

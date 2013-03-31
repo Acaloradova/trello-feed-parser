@@ -1,7 +1,11 @@
 require 'json'
-require '../bin/model/trello_card'
+require 'treller/model/trello_card'
 
 class TrelloParser
+  def parse_file(file_location)
+    parse_json(File.new(file_location).read())
+  end
+
   def parse_json(json)
     board = TrelloBoard.new
     board_json = JSON.parse(json)
