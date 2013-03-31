@@ -1,5 +1,6 @@
 require 'json'
 require 'treller/model/trello_card'
+require 'treller/model/trello_board'
 
 class TrelloParser
   def parse_file(file_location)

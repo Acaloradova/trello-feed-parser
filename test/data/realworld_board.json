@@ -1,1 +1,1093 @@
-{"id":"50ba303c7b4a6f8f2b005cc2","name":"TestParser","desc":"","closed":false,"idOrganization":null,"invited":false,"pinned":true,"url":"https://trello.com/board/testparser/50ba303c7b4a6f8f2b005cc2","prefs":{"permissionLevel":"private","voting":"members","comments":"members","invitations":"members","selfJoin":false,"cardCovers":true},"invitations":[],"memberships":[{"id":"50ba303c7b4a6f8f2b005cc6","idMember":"4eda466253a776a00a49c32a","memberType":"admin","deactivated":false},{"id":"5158220a2d41f21b060007bc","idMember":"4ef4311fc58da5f13506bd19","memberType":"normal","deactivated":false}],"shortUrl":"https://trello.com/b/laGiuInV","subscribed":false,"labelNames":{"yellow":"","red":"label red","purple":"","orange":"","green":"label green","blue":""},"checklists":[],"members":[{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","bio":"","fullName":"Julia Atlygina","initials":"J","memberType":"normal","status":"disconnected","url":"https://trello.com/atlygina","username":"atlygina"},{"id":"4ef4311fc58da5f13506bd19","avatarHash":"59ca3bbf53e8ba23e9132ed3896c4822","bio":"","fullName":"Stanislav Bashkirtsev","initials":"SB","memberType":"normal","status":"disconnected","url":"https://trello.com/stanislavbashkirtsev","username":"stanislavbashkirtsev"}],"lists":[{"id":"50ba303c7b4a6f8f2b005cc3","name":"To Do","closed":false,"idBoard":"50ba303c7b4a6f8f2b005cc2","pos":16384,"subscribed":false},{"id":"50ba303c7b4a6f8f2b005cc4","name":"Doing","closed":false,"idBoard":"50ba303c7b4a6f8f2b005cc2","pos":32768,"subscribed":false},{"id":"50ba303c7b4a6f8f2b005cc5","name":"Done","closed":false,"idBoard":"50ba303c7b4a6f8f2b005cc2","pos":49152,"subscribed":false}],"cards":[{"id":"50ba3043be2e85e445012858","badges":{"votes":0,"viewingMemberVoted":false,"subscribed":true,"fogbugz":"","checkItems":0,"checkItemsChecked":0,"comments":0,"attachments":0,"description":true,"due":null},"checkItemStates":[],"closed":false,"dateLastActivity":"2012-12-01T17:11:59.339Z","desc":"Test Description","due":null,"idBoard":"50ba303c7b4a6f8f2b005cc2","idChecklists":[],"idList":"50ba303c7b4a6f8f2b005cc3","idMembers":["4eda466253a776a00a49c32a"],"idMembersVoted":[],"idShort":1,"idAttachmentCover":null,"manualCoverAttachment":false,"labels":[{"color":"green","name":"label green"}],"name":"Test Card Name","pos":65535,"shortUrl":"https://trello.com/c/ZB1ggUzy","subscribed":true,"url":"https://trello.com/card/test-card-name/50ba303c7b4a6f8f2b005cc2/1","attachments":[]},{"id":"515822fdc1f6156a13002b10","badges":{"votes":0,"viewingMemberVoted":false,"subscribed":true,"fogbugz":"","due":null,"description":true,"comments":0,"checkItemsChecked":0,"checkItems":0,"attachments":0},"checkItemStates":[],"closed":false,"dateLastActivity":"2013-03-31T11:50:21.288Z","desc":"Link: cmajira.lss.emc.com/browse/IA-59742\nTitle: Test Description 3\nComponent/s: Export - FileNet/32\nFix Version/s: 6.5","due":null,"idBoard":"50ba303c7b4a6f8f2b005cc2","idChecklists":[],"idList":"50ba303c7b4a6f8f2b005cc4","idMembers":["4eda466253a776a00a49c32a"],"idMembersVoted":[],"idShort":3,"idAttachmentCover":null,"manualCoverAttachment":false,"labels":[{"color":"green","name":"label green"},{"color":"red","name":"label red"}],"name":"Test Card Name 3","pos":98303,"shortUrl":"https://trello.com/c/3G0dgBuV","subscribed":true,"url":"https://trello.com/card/test-card-name-3/50ba303c7b4a6f8f2b005cc2/3","attachments":[]},{"id":"5158229ec0008f397c002a96","badges":{"votes":0,"viewingMemberVoted":false,"subscribed":true,"fogbugz":"","due":"2013-04-02T08:00:00.000Z","description":true,"comments":1,"checkItemsChecked":0,"checkItems":0,"attachments":0},"checkItemStates":[],"closed":false,"dateLastActivity":"2013-03-31T11:48:46.914Z","desc":"Link: cmajira.lss.emc.com/browse/IA-59742\nTitle: Flagstar Bank - FileNet IS/CS Export: remove the dependency for the Panagon Capture API\nComponent/s: Export - FileNet/32\nFix Version/s: 6.0SP3HF","due":"2013-04-02T08:00:00.000Z","idBoard":"50ba303c7b4a6f8f2b005cc2","idChecklists":[],"idList":"50ba303c7b4a6f8f2b005cc5","idMembers":["4eda466253a776a00a49c32a"],"idMembersVoted":[],"idShort":2,"idAttachmentCover":null,"manualCoverAttachment":false,"labels":[{"color":"green","name":"label green"},{"color":"red","name":"label red"}],"name":"test card name2","pos":98303,"shortUrl":"https://trello.com/c/CyaPVn9i","subscribed":true,"url":"https://trello.com/card/test-card-name2/50ba303c7b4a6f8f2b005cc2/2","attachments":[]},{"id":"515823502d41f21b060007cb","badges":{"votes":0,"viewingMemberVoted":false,"subscribed":true,"fogbugz":"","due":null,"description":true,"comments":0,"checkItemsChecked":0,"checkItems":0,"attachments":0},"checkItemStates":[],"closed":false,"dateLastActivity":"2013-03-31T11:51:44.558Z","desc":"Link: cmajira.lss.emc.com/browse/IA-59742\nTitle: Test Description 4\nComponent/s: Export - FileNet/32\nFix Version/s: 6.0SP3HF","due":null,"idBoard":"50ba303c7b4a6f8f2b005cc2","idChecklists":[],"idList":"50ba303c7b4a6f8f2b005cc5","idMembers":["4eda466253a776a00a49c32a"],"idMembersVoted":[],"idShort":4,"idAttachmentCover":null,"manualCoverAttachment":false,"labels":[{"color":"green","name":"label green"},{"color":"red","name":"label red"}],"name":"Test Card Name 4","pos":163839,"shortUrl":"https://trello.com/c/35Qrhdmi","subscribed":true,"url":"https://trello.com/card/test-card-name-4/50ba303c7b4a6f8f2b005cc2/4","attachments":[]}],"actions":[{"id":"51582383d212314936001abc","idMemberCreator":"4eda466253a776a00a49c32a","data":{"listAfter":{"name":"Done","id":"50ba303c7b4a6f8f2b005cc5"},"listBefore":{"name":"Doing","id":"50ba303c7b4a6f8f2b005cc4"},"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":4,"name":"Test Card Name 4","id":"515823502d41f21b060007cb","idList":"50ba303c7b4a6f8f2b005cc5"},"old":{"idList":"50ba303c7b4a6f8f2b005cc4"}},"type":"updateCard","date":"2013-03-31T11:52:35.759Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515823801575ec184a000b8e","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":4,"name":"Test Card Name 4","id":"515823502d41f21b060007cb","pos":163839},"old":{"pos":98303}},"type":"updateCard","date":"2013-03-31T11:52:32.754Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515823801575ec184a000b8d","idMemberCreator":"4eda466253a776a00a49c32a","data":{"listAfter":{"name":"Doing","id":"50ba303c7b4a6f8f2b005cc4"},"listBefore":{"name":"To Do","id":"50ba303c7b4a6f8f2b005cc3"},"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":4,"name":"Test Card Name 4","id":"515823502d41f21b060007cb","idList":"50ba303c7b4a6f8f2b005cc4"},"old":{"idList":"50ba303c7b4a6f8f2b005cc3"}},"type":"updateCard","date":"2013-03-31T11:52:32.744Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"5158237c168722034a002cd8","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":4,"name":"Test Card Name 4","id":"515823502d41f21b060007cb"},"idMember":"4eda466253a776a00a49c32a"},"type":"addMemberToCard","date":"2013-03-31T11:52:28.576Z","member":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"},"memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"51582373c0008f397c002afe","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":4,"name":"Test Card Name 4","id":"515823502d41f21b060007cb","desc":true},"old":{"desc":""}},"type":"updateCard","date":"2013-03-31T11:52:19.289Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515823502d41f21b060007cc","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"list":{"name":"To Do","id":"50ba303c7b4a6f8f2b005cc3"},"card":{"idShort":4,"name":"Test Card Name 4","id":"515823502d41f21b060007cb"}},"type":"createCard","date":"2013-03-31T11:51:44.564Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"5158233a67b41359700005b2","idMemberCreator":"4eda466253a776a00a49c32a","data":{"listAfter":{"name":"Doing","id":"50ba303c7b4a6f8f2b005cc4"},"listBefore":{"name":"To Do","id":"50ba303c7b4a6f8f2b005cc3"},"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":3,"name":"Test Card Name 3","id":"515822fdc1f6156a13002b10","idList":"50ba303c7b4a6f8f2b005cc4"},"old":{"idList":"50ba303c7b4a6f8f2b005cc3"}},"type":"updateCard","date":"2013-03-31T11:51:22.462Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"5158232c7f4bc0796b002bef","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":3,"name":"Test Card Name 3","id":"515822fdc1f6156a13002b10","desc":true},"old":{"desc":"Test Description 3"}},"type":"updateCard","date":"2013-03-31T11:51:08.542Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"5158230db508607146001f8e","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":3,"name":"Test Card Name 3","id":"515822fdc1f6156a13002b10"},"idMember":"4eda466253a776a00a49c32a"},"type":"addMemberToCard","date":"2013-03-31T11:50:37.860Z","member":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"},"memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"5158230b168722034a002cd5","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":3,"name":"Test Card Name 3","id":"515822fdc1f6156a13002b10","desc":true},"old":{"desc":""}},"type":"updateCard","date":"2013-03-31T11:50:35.105Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515822fdc1f6156a13002b11","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"list":{"name":"To Do","id":"50ba303c7b4a6f8f2b005cc3"},"card":{"idShort":3,"name":"Test Card Name 3","id":"515822fdc1f6156a13002b10"}},"type":"createCard","date":"2013-03-31T11:50:21.294Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515822e58748072d52000537","idMemberCreator":"4eda466253a776a00a49c32a","data":{"listAfter":{"name":"Done","id":"50ba303c7b4a6f8f2b005cc5"},"listBefore":{"name":"Doing","id":"50ba303c7b4a6f8f2b005cc4"},"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":2,"name":"test card name2","id":"5158229ec0008f397c002a96","idList":"50ba303c7b4a6f8f2b005cc5"},"old":{"idList":"50ba303c7b4a6f8f2b005cc4"}},"type":"updateCard","date":"2013-03-31T11:49:57.960Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515822e3ad25a08c6b002deb","idMemberCreator":"4eda466253a776a00a49c32a","data":{"listAfter":{"name":"Doing","id":"50ba303c7b4a6f8f2b005cc4"},"listBefore":{"name":"To Do","id":"50ba303c7b4a6f8f2b005cc3"},"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":2,"name":"test card name2","id":"5158229ec0008f397c002a96","idList":"50ba303c7b4a6f8f2b005cc4"},"old":{"idList":"50ba303c7b4a6f8f2b005cc3"}},"type":"updateCard","date":"2013-03-31T11:49:55.242Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515822d9c52282114a000c1c","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"old":{"due":null},"card":{"idShort":2,"name":"test card name2","id":"5158229ec0008f397c002a96","due":"2013-04-02T08:00:00.000Z"}},"type":"updateCard","date":"2013-03-31T11:49:45.714Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515822d23685b83b130009d3","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":2,"name":"test card name2","id":"5158229ec0008f397c002a96"},"text":"test comment"},"type":"commentCard","date":"2013-03-31T11:49:38.663Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515822c81560fa24650029b8","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2","labelNames":{"red":"label red"}},"old":{"labelNames":{"red":""}}},"type":"updateBoard","date":"2013-03-31T11:49:28.254Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515822c81560fa24650029b7","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2","labelNames":{"green":"label green"}},"old":{"labelNames":{"green":"Test green"}}},"type":"updateBoard","date":"2013-03-31T11:49:28.237Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515822b3a58c5b4052000d99","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":2,"name":"test card name2","id":"5158229ec0008f397c002a96"},"idMember":"4eda466253a776a00a49c32a"},"type":"addMemberToCard","date":"2013-03-31T11:49:07.240Z","member":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"},"memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515822aec0008f397c002a9a","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":2,"name":"test card name2","id":"5158229ec0008f397c002a96","desc":true},"old":{"desc":""}},"type":"updateCard","date":"2013-03-31T11:49:02.291Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"5158229ec0008f397c002a97","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"list":{"name":"To Do","id":"50ba303c7b4a6f8f2b005cc3"},"card":{"idShort":2,"name":"test card name2","id":"5158229ec0008f397c002a96"}},"type":"createCard","date":"2013-03-31T11:48:46.920Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"5158220a2d41f21b060007be","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"idMember":"4ef4311fc58da5f13506bd19"},"type":"makeNormalMemberOfBoard","date":"2013-03-31T11:46:18.270Z","member":{"id":"4ef4311fc58da5f13506bd19","avatarHash":"59ca3bbf53e8ba23e9132ed3896c4822","fullName":"Stanislav Bashkirtsev","initials":"SB","username":"stanislavbashkirtsev"},"memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"5158220a2d41f21b060007bd","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"idMemberAdded":"4ef4311fc58da5f13506bd19"},"type":"addMemberToBoard","date":"2013-03-31T11:46:18.256Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515821f2eee90e354a002b98","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":1,"name":"Test Card Name","id":"50ba3043be2e85e445012858"},"idMember":"4eda466253a776a00a49c32a"},"type":"addMemberToCard","date":"2013-03-31T11:45:54.959Z","member":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"},"memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515821e8ea887e57310028ea","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2","labelNames":{"green":"Test green"}},"old":{"labelNames":{"green":""}}},"type":"updateBoard","date":"2013-03-31T11:45:44.307Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515821d8bc0d121865002d45","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":1,"id":"50ba3043be2e85e445012858","name":"Test Card Name"},"old":{"name":"Test"}},"type":"updateCard","date":"2013-03-31T11:45:28.832Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"515821d136fe933165002a75","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"idShort":1,"name":"Test","id":"50ba3043be2e85e445012858","desc":true},"old":{"desc":"Description"}},"type":"updateCard","date":"2013-03-31T11:45:21.803Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"50ba3a5fdf3a933a25012f18","idMemberCreator":"4eda466253a776a00a49c32a","data":{"old":{"desc":""},"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"desc":"Description","name":"Test","idShort":1,"id":"50ba3043be2e85e445012858"}},"type":"updateCard","date":"2012-12-01T17:11:59.329Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"50ba3043be2e85e445012859","idMemberCreator":"4eda466253a776a00a49c32a","data":{"list":{"name":"To Do","id":"50ba303c7b4a6f8f2b005cc3"},"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"},"card":{"name":"Test","idShort":1,"id":"50ba3043be2e85e445012858"}},"type":"createCard","date":"2012-12-01T16:28:51.955Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}},{"id":"50ba303c7b4a6f8f2b005cc7","idMemberCreator":"4eda466253a776a00a49c32a","data":{"board":{"name":"TestParser","id":"50ba303c7b4a6f8f2b005cc2"}},"type":"createBoard","date":"2012-12-01T16:28:44.122Z","memberCreator":{"id":"4eda466253a776a00a49c32a","avatarHash":"0c218b3c104cf5b71fb0a02378761088","fullName":"Julia Atlygina","initials":"J","username":"atlygina"}}]}
+{"id": "50ba303c7b4a6f8f2b005cc2", "name": "TestParser", "desc": "", "closed": false, "idOrganization": null, "invited": false, "pinned": true, "url": "https://trello.com/board/testparser/50ba303c7b4a6f8f2b005cc2", "prefs": {
+    "permissionLevel": "private",
+    "voting": "members",
+    "comments": "members",
+    "invitations": "members",
+    "selfJoin": false,
+    "cardCovers": true
+}, "invitations": [], "memberships": [
+    {
+        "id": "50ba303c7b4a6f8f2b005cc6",
+        "idMember": "4eda466253a776a00a49c32a",
+        "memberType": "admin",
+        "deactivated": false
+    },
+    {
+        "id": "5158220a2d41f21b060007bc",
+        "idMember": "4ef4311fc58da5f13506bd19",
+        "memberType": "normal",
+        "deactivated": false
+    }
+], "shortUrl": "https://trello.com/b/laGiuInV", "subscribed": false, "labelNames": {
+    "yellow": "",
+    "red": "label red",
+    "purple": "",
+    "orange": "",
+    "green": "label green",
+    "blue": ""
+}, "checklists": [], "members": [
+    {
+        "id": "4eda466253a776a00a49c32a",
+        "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+        "bio": "",
+        "fullName": "Julia Atlygina",
+        "initials": "J",
+        "memberType": "normal",
+        "status": "disconnected",
+        "url": "https://trello.com/atlygina",
+        "username": "atlygina"
+    },
+    {
+        "id": "4ef4311fc58da5f13506bd19",
+        "avatarHash": "59ca3bbf53e8ba23e9132ed3896c4822",
+        "bio": "",
+        "fullName": "Stanislav Bashkirtsev",
+        "initials": "SB",
+        "memberType": "normal",
+        "status": "disconnected",
+        "url": "https://trello.com/stanislavbashkirtsev",
+        "username": "stanislavbashkirtsev"
+    }
+], "lists": [
+    {
+        "id": "50ba303c7b4a6f8f2b005cc3",
+        "name": "To Do",
+        "closed": false,
+        "idBoard": "50ba303c7b4a6f8f2b005cc2",
+        "pos": 16384,
+        "subscribed": false
+    },
+    {
+        "id": "50ba303c7b4a6f8f2b005cc4",
+        "name": "Doing",
+        "closed": false,
+        "idBoard": "50ba303c7b4a6f8f2b005cc2",
+        "pos": 32768,
+        "subscribed": false
+    },
+    {
+        "id": "50ba303c7b4a6f8f2b005cc5",
+        "name": "Done",
+        "closed": false,
+        "idBoard": "50ba303c7b4a6f8f2b005cc2",
+        "pos": 49152,
+        "subscribed": false
+    }
+], "cards": [
+    {
+        "id": "50ba3043be2e85e445012858",
+        "badges": {
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": true,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "comments": 0,
+            "attachments": 0,
+            "description": true,
+            "due": null
+        },
+        "checkItemStates": [],
+        "closed": false,
+        "dateLastActivity": "2012-12-01T17:11:59.339Z",
+        "desc": "Test Description",
+        "due": null,
+        "idBoard": "50ba303c7b4a6f8f2b005cc2",
+        "idChecklists": [],
+        "idList": "50ba303c7b4a6f8f2b005cc3",
+        "idMembers": ["4eda466253a776a00a49c32a"],
+        "idMembersVoted": [],
+        "idShort": 1,
+        "idAttachmentCover": null,
+        "manualCoverAttachment": false,
+        "labels": [
+            {
+                "color": "green",
+                "name": "label green"
+            }
+        ],
+        "name": "Test Card Name",
+        "pos": 65535,
+        "shortUrl": "https://trello.com/c/ZB1ggUzy",
+        "subscribed": true,
+        "url": "https://trello.com/card/test-card-name/50ba303c7b4a6f8f2b005cc2/1",
+        "attachments": []
+    },
+    {
+        "id": "515822fdc1f6156a13002b10",
+        "badges": {
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": true,
+            "fogbugz": "",
+            "due": null,
+            "description": true,
+            "comments": 0,
+            "checkItemsChecked": 0,
+            "checkItems": 0,
+            "attachments": 0
+        },
+        "checkItemStates": [],
+        "closed": false,
+        "dateLastActivity": "2013-03-31T11:50:21.288Z",
+        "desc": "Link: cmajira.lss.emc.com/browse/IA-59742\nTitle: Test Description 3\nComponent/s: Export - FileNet/32\nFix Version/s: 6.5",
+        "due": null,
+        "idBoard": "50ba303c7b4a6f8f2b005cc2",
+        "idChecklists": [],
+        "idList": "50ba303c7b4a6f8f2b005cc4",
+        "idMembers": ["4eda466253a776a00a49c32a"],
+        "idMembersVoted": [],
+        "idShort": 3,
+        "idAttachmentCover": null,
+        "manualCoverAttachment": false,
+        "labels": [
+            {
+                "color": "green",
+                "name": "label green"
+            },
+            {
+                "color": "red",
+                "name": "label red"
+            }
+        ],
+        "name": "Test Card Name 3",
+        "pos": 98303,
+        "shortUrl": "https://trello.com/c/3G0dgBuV",
+        "subscribed": true,
+        "url": "https://trello.com/card/test-card-name-3/50ba303c7b4a6f8f2b005cc2/3",
+        "attachments": []
+    },
+    {
+        "id": "5158229ec0008f397c002a96",
+        "badges": {
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": true,
+            "fogbugz": "",
+            "due": "2013-04-02T08:00:00.000Z",
+            "description": true,
+            "comments": 1,
+            "checkItemsChecked": 0,
+            "checkItems": 0,
+            "attachments": 0
+        },
+        "checkItemStates": [],
+        "closed": false,
+        "dateLastActivity": "2013-03-31T11:48:46.914Z",
+        "desc": "Link: cmajira.lss.emc.com/browse/IA-59742\nTitle: Flagstar Bank - FileNet IS/CS Export: remove the dependency for the Panagon Capture API\nComponent/s: Export - FileNet/32\nFix Version/s: 6.0SP3HF",
+        "due": "2013-04-02T08:00:00.000Z",
+        "idBoard": "50ba303c7b4a6f8f2b005cc2",
+        "idChecklists": [],
+        "idList": "50ba303c7b4a6f8f2b005cc5",
+        "idMembers": ["4eda466253a776a00a49c32a"],
+        "idMembersVoted": [],
+        "idShort": 2,
+        "idAttachmentCover": null,
+        "manualCoverAttachment": false,
+        "labels": [
+            {
+                "color": "green",
+                "name": "label green"
+            },
+            {
+                "color": "red",
+                "name": "label red"
+            }
+        ],
+        "name": "test card name2",
+        "pos": 98303,
+        "shortUrl": "https://trello.com/c/CyaPVn9i",
+        "subscribed": true,
+        "url": "https://trello.com/card/test-card-name2/50ba303c7b4a6f8f2b005cc2/2",
+        "attachments": []
+    },
+    {
+        "id": "515823502d41f21b060007cb",
+        "badges": {
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": true,
+            "fogbugz": "",
+            "due": null,
+            "description": true,
+            "comments": 0,
+            "checkItemsChecked": 0,
+            "checkItems": 0,
+            "attachments": 0
+        },
+        "checkItemStates": [],
+        "closed": false,
+        "dateLastActivity": "2013-03-31T11:51:44.558Z",
+        "desc": "Link: cmajira.lss.emc.com/browse/IA-59742\nTitle: Test Description 4\nComponent/s: Export - FileNet/32\nFix Version/s: 6.0SP3HF",
+        "due": null,
+        "idBoard": "50ba303c7b4a6f8f2b005cc2",
+        "idChecklists": [],
+        "idList": "50ba303c7b4a6f8f2b005cc5",
+        "idMembers": ["4eda466253a776a00a49c32a"],
+        "idMembersVoted": [],
+        "idShort": 4,
+        "idAttachmentCover": null,
+        "manualCoverAttachment": false,
+        "labels": [
+            {
+                "color": "green",
+                "name": "label green"
+            },
+            {
+                "color": "red",
+                "name": "label red"
+            }
+        ],
+        "name": "Test Card Name 4",
+        "pos": 163839,
+        "shortUrl": "https://trello.com/c/35Qrhdmi",
+        "subscribed": true,
+        "url": "https://trello.com/card/test-card-name-4/50ba303c7b4a6f8f2b005cc2/4",
+        "attachments": []
+    }
+], "actions": [
+    {
+        "id": "51582383d212314936001abc",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "listAfter": {
+                "name": "Done",
+                "id": "50ba303c7b4a6f8f2b005cc5"
+            },
+            "listBefore": {
+                "name": "Doing",
+                "id": "50ba303c7b4a6f8f2b005cc4"
+            },
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 4,
+                "name": "Test Card Name 4",
+                "id": "515823502d41f21b060007cb",
+                "idList": "50ba303c7b4a6f8f2b005cc5"
+            },
+            "old": {
+                "idList": "50ba303c7b4a6f8f2b005cc4"
+            }
+        },
+        "type": "updateCard",
+        "date": "2013-03-31T11:52:35.759Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515823801575ec184a000b8e",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 4,
+                "name": "Test Card Name 4",
+                "id": "515823502d41f21b060007cb",
+                "pos": 163839
+            },
+            "old": {
+                "pos": 98303
+            }
+        },
+        "type": "updateCard",
+        "date": "2013-03-31T11:52:32.754Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515823801575ec184a000b8d",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "listAfter": {
+                "name": "Doing",
+                "id": "50ba303c7b4a6f8f2b005cc4"
+            },
+            "listBefore": {
+                "name": "To Do",
+                "id": "50ba303c7b4a6f8f2b005cc3"
+            },
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 4,
+                "name": "Test Card Name 4",
+                "id": "515823502d41f21b060007cb",
+                "idList": "50ba303c7b4a6f8f2b005cc4"
+            },
+            "old": {
+                "idList": "50ba303c7b4a6f8f2b005cc3"
+            }
+        },
+        "type": "updateCard",
+        "date": "2013-03-31T11:52:32.744Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "5158237c168722034a002cd8",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 4,
+                "name": "Test Card Name 4",
+                "id": "515823502d41f21b060007cb"
+            },
+            "idMember": "4eda466253a776a00a49c32a"
+        },
+        "type": "addMemberToCard",
+        "date": "2013-03-31T11:52:28.576Z",
+        "member": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        },
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "51582373c0008f397c002afe",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 4,
+                "name": "Test Card Name 4",
+                "id": "515823502d41f21b060007cb",
+                "desc": true
+            },
+            "old": {
+                "desc": ""
+            }
+        },
+        "type": "updateCard",
+        "date": "2013-03-31T11:52:19.289Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515823502d41f21b060007cc",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "list": {
+                "name": "To Do",
+                "id": "50ba303c7b4a6f8f2b005cc3"
+            },
+            "card": {
+                "idShort": 4,
+                "name": "Test Card Name 4",
+                "id": "515823502d41f21b060007cb"
+            }
+        },
+        "type": "createCard",
+        "date": "2013-03-31T11:51:44.564Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "5158233a67b41359700005b2",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "listAfter": {
+                "name": "Doing",
+                "id": "50ba303c7b4a6f8f2b005cc4"
+            },
+            "listBefore": {
+                "name": "To Do",
+                "id": "50ba303c7b4a6f8f2b005cc3"
+            },
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 3,
+                "name": "Test Card Name 3",
+                "id": "515822fdc1f6156a13002b10",
+                "idList": "50ba303c7b4a6f8f2b005cc4"
+            },
+            "old": {
+                "idList": "50ba303c7b4a6f8f2b005cc3"
+            }
+        },
+        "type": "updateCard",
+        "date": "2013-03-31T11:51:22.462Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "5158232c7f4bc0796b002bef",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 3,
+                "name": "Test Card Name 3",
+                "id": "515822fdc1f6156a13002b10",
+                "desc": true
+            },
+            "old": {
+                "desc": "Test Description 3"
+            }
+        },
+        "type": "updateCard",
+        "date": "2013-03-31T11:51:08.542Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "5158230db508607146001f8e",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 3,
+                "name": "Test Card Name 3",
+                "id": "515822fdc1f6156a13002b10"
+            },
+            "idMember": "4eda466253a776a00a49c32a"
+        },
+        "type": "addMemberToCard",
+        "date": "2013-03-31T11:50:37.860Z",
+        "member": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        },
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "5158230b168722034a002cd5",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 3,
+                "name": "Test Card Name 3",
+                "id": "515822fdc1f6156a13002b10",
+                "desc": true
+            },
+            "old": {
+                "desc": ""
+            }
+        },
+        "type": "updateCard",
+        "date": "2013-03-31T11:50:35.105Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515822fdc1f6156a13002b11",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "list": {
+                "name": "To Do",
+                "id": "50ba303c7b4a6f8f2b005cc3"
+            },
+            "card": {
+                "idShort": 3,
+                "name": "Test Card Name 3",
+                "id": "515822fdc1f6156a13002b10"
+            }
+        },
+        "type": "createCard",
+        "date": "2013-03-31T11:50:21.294Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515822e58748072d52000537",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "listAfter": {
+                "name": "Done",
+                "id": "50ba303c7b4a6f8f2b005cc5"
+            },
+            "listBefore": {
+                "name": "Doing",
+                "id": "50ba303c7b4a6f8f2b005cc4"
+            },
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 2,
+                "name": "test card name2",
+                "id": "5158229ec0008f397c002a96",
+                "idList": "50ba303c7b4a6f8f2b005cc5"
+            },
+            "old": {
+                "idList": "50ba303c7b4a6f8f2b005cc4"
+            }
+        },
+        "type": "updateCard",
+        "date": "2013-03-31T11:49:57.960Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515822e3ad25a08c6b002deb",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "listAfter": {
+                "name": "Doing",
+                "id": "50ba303c7b4a6f8f2b005cc4"
+            },
+            "listBefore": {
+                "name": "To Do",
+                "id": "50ba303c7b4a6f8f2b005cc3"
+            },
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 2,
+                "name": "test card name2",
+                "id": "5158229ec0008f397c002a96",
+                "idList": "50ba303c7b4a6f8f2b005cc4"
+            },
+            "old": {
+                "idList": "50ba303c7b4a6f8f2b005cc3"
+            }
+        },
+        "type": "updateCard",
+        "date": "2013-03-31T11:49:55.242Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515822d9c52282114a000c1c",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "old": {
+                "due": null
+            },
+            "card": {
+                "idShort": 2,
+                "name": "test card name2",
+                "id": "5158229ec0008f397c002a96",
+                "due": "2013-04-02T08:00:00.000Z"
+            }
+        },
+        "type": "updateCard",
+        "date": "2013-03-31T11:49:45.714Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515822d23685b83b130009d3",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 2,
+                "name": "test card name2",
+                "id": "5158229ec0008f397c002a96"
+            },
+            "text": "test comment"
+        },
+        "type": "commentCard",
+        "date": "2013-03-31T11:49:38.663Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515822c81560fa24650029b8",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2",
+                "labelNames": {
+                    "red": "label red"
+                }
+            },
+            "old": {
+                "labelNames": {
+                    "red": ""
+                }
+            }
+        },
+        "type": "updateBoard",
+        "date": "2013-03-31T11:49:28.254Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515822c81560fa24650029b7",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2",
+                "labelNames": {
+                    "green": "label green"
+                }
+            },
+            "old": {
+                "labelNames": {
+                    "green": "Test green"
+                }
+            }
+        },
+        "type": "updateBoard",
+        "date": "2013-03-31T11:49:28.237Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515822b3a58c5b4052000d99",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 2,
+                "name": "test card name2",
+                "id": "5158229ec0008f397c002a96"
+            },
+            "idMember": "4eda466253a776a00a49c32a"
+        },
+        "type": "addMemberToCard",
+        "date": "2013-03-31T11:49:07.240Z",
+        "member": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        },
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515822aec0008f397c002a9a",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 2,
+                "name": "test card name2",
+                "id": "5158229ec0008f397c002a96",
+                "desc": true
+            },
+            "old": {
+                "desc": ""
+            }
+        },
+        "type": "updateCard",
+        "date": "2013-03-31T11:49:02.291Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "5158229ec0008f397c002a97",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "list": {
+                "name": "To Do",
+                "id": "50ba303c7b4a6f8f2b005cc3"
+            },
+            "card": {
+                "idShort": 2,
+                "name": "test card name2",
+                "id": "5158229ec0008f397c002a96"
+            }
+        },
+        "type": "createCard",
+        "date": "2013-03-31T11:48:46.920Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "5158220a2d41f21b060007be",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "idMember": "4ef4311fc58da5f13506bd19"
+        },
+        "type": "makeNormalMemberOfBoard",
+        "date": "2013-03-31T11:46:18.270Z",
+        "member": {
+            "id": "4ef4311fc58da5f13506bd19",
+            "avatarHash": "59ca3bbf53e8ba23e9132ed3896c4822",
+            "fullName": "Stanislav Bashkirtsev",
+            "initials": "SB",
+            "username": "stanislavbashkirtsev"
+        },
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "5158220a2d41f21b060007bd",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "idMemberAdded": "4ef4311fc58da5f13506bd19"
+        },
+        "type": "addMemberToBoard",
+        "date": "2013-03-31T11:46:18.256Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515821f2eee90e354a002b98",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 1,
+                "name": "Test Card Name",
+                "id": "50ba3043be2e85e445012858"
+            },
+            "idMember": "4eda466253a776a00a49c32a"
+        },
+        "type": "addMemberToCard",
+        "date": "2013-03-31T11:45:54.959Z",
+        "member": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        },
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515821e8ea887e57310028ea",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2",
+                "labelNames": {
+                    "green": "Test green"
+                }
+            },
+            "old": {
+                "labelNames": {
+                    "green": ""
+                }
+            }
+        },
+        "type": "updateBoard",
+        "date": "2013-03-31T11:45:44.307Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515821d8bc0d121865002d45",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 1,
+                "id": "50ba3043be2e85e445012858",
+                "name": "Test Card Name"
+            },
+            "old": {
+                "name": "Test"
+            }
+        },
+        "type": "updateCard",
+        "date": "2013-03-31T11:45:28.832Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "515821d136fe933165002a75",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "idShort": 1,
+                "name": "Test",
+                "id": "50ba3043be2e85e445012858",
+                "desc": true
+            },
+            "old": {
+                "desc": "Description"
+            }
+        },
+        "type": "updateCard",
+        "date": "2013-03-31T11:45:21.803Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "50ba3a5fdf3a933a25012f18",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "old": {
+                "desc": ""
+            },
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "desc": "Description",
+                "name": "Test",
+                "idShort": 1,
+                "id": "50ba3043be2e85e445012858"
+            }
+        },
+        "type": "updateCard",
+        "date": "2012-12-01T17:11:59.329Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "50ba3043be2e85e445012859",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "list": {
+                "name": "To Do",
+                "id": "50ba303c7b4a6f8f2b005cc3"
+            },
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            },
+            "card": {
+                "name": "Test",
+                "idShort": 1,
+                "id": "50ba3043be2e85e445012858"
+            }
+        },
+        "type": "createCard",
+        "date": "2012-12-01T16:28:51.955Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    },
+    {
+        "id": "50ba303c7b4a6f8f2b005cc7",
+        "idMemberCreator": "4eda466253a776a00a49c32a",
+        "data": {
+            "board": {
+                "name": "TestParser",
+                "id": "50ba303c7b4a6f8f2b005cc2"
+            }
+        },
+        "type": "createBoard",
+        "date": "2012-12-01T16:28:44.122Z",
+        "memberCreator": {
+            "id": "4eda466253a776a00a49c32a",
+            "avatarHash": "0c218b3c104cf5b71fb0a02378761088",
+            "fullName": "Julia Atlygina",
+            "initials": "J",
+            "username": "atlygina"
+        }
+    }
+]}
