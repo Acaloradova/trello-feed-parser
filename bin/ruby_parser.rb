@@ -6,9 +6,12 @@ class TrelloParser
     board = TrelloBoard.new
     board.cards = Array.new
     board_json = JSON.parse(json)
-    board.cards[0] = TrelloCard.new
-    board.cards[0].name = board_json.fetch("cards").first.fetch("name")
-    board.cards[0].description = board_json.fetch("cards").first.fetch("desc")
+    board_json.fetch("cards").each_with_index do |card_json, i|
+      card = TrelloCard.new
+      card.name = card_json.fetch("name")
+      card.description = card_json.fetch("desc")
+      board.cards[i]=card
+    end
     board
   end
 end  
