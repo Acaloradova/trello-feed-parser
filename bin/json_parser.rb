@@ -1,5 +1,5 @@
 require 'json'
-require '../bin/trello_card'
+require '../bin/model/trello_card'
 
 class TrelloParser
   def parse_json(json)
