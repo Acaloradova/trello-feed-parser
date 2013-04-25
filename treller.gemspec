@@ -14,7 +14,6 @@ Gem::Specification.new do |s|
   s.require_paths << ["lib"]
   s.test_files = Dir['test/**/*']
 
-  s.add_development_dependency 'test-unit', "2.5.4"
-  s.add_dependency 'csv'
-  s.add_dependency 'json'
+  s.add_development_dependency 'test-unit', '2.5.4'
+  s.add_dependency 'json', '1.7.7'
 end
